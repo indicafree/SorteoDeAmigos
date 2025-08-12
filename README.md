@@ -15,3 +15,5 @@ En este desafío, desarrolle una aplicación que permite a los usuarios ingresar
 - `Funcionalidad 4`: Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
 
+## 🔗 : Github Page 
+[Visita el proyecto deployado](https://indicafree.github.io/SorteoDeAmigos/) 
